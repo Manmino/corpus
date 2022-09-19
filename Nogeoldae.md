@@ -99,3 +99,5 @@ The Nogeoldae is a textbook that was used to train Joseon Dynasty Court Interpre
       * Manchu : Abka gosifi beye elhe oci isinambi dere !
      * QM : 若上天憐憫身體安好時，想是可到吧 !
      * Manmino : Nyak langit ni ne cincet cey, ni ji langkay penan kalu!
+
+[Return to Corpus Index](https://github.com/Manmino/corpus#readme)
