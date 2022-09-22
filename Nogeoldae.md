@@ -2,7 +2,7 @@
 
 **EN:** The Nogeoldae is a textbook that was used to train Joseon Dynasty Court Interpreters in  Qing-era Mandarin, Manchu, and Mongolian. The text here is a small excerpt based on the textbook made for the Manchu language. 
 
-**MMO:** "Nogeoldae" Jawsyen ji ekgwan-tat ne Ceng-jaw Gwanhwa, Mancuo, hwa Mongol'o lu haksip-si ji socek cey. Kodi jay ji sapsap na Nogeoldae ji Mancu'o bowbyun-bat lay.
+**MMO:** "Lawkitday" Jawsyen ji ekgwan-tat ne Ceng-jaw Gwanhwa, Mancuo, hwa Mongol'o lu haksip-si ji socek cey. Kodi jay ji sapsap na Nogeoldae ji Mancu'o bowbyun-bat lay.
 
 **KO:** 노걸대는 조선시대 역관들에게 청나라 관화, 만주어, 그리고 몽골어를 가르치는데 쓰였던 책이다. 여기에서 나오는 문장들은 노걸대의 만주어 부분에서 왔다.
 
