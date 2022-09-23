@@ -17,6 +17,8 @@
     B: Manchu Language / Mancuo / 滿洲語 / 만주어
 
     C: Qing Mandarin / Ceng-jaw Gwanhwa / 清朝官語 / 청나라 관화
+    
+    C2: Simplified Chinese / Gyanceyji / 简体字 / 간체자
 
     D: Manmino / 萬民語 / 만민어 
 
@@ -27,6 +29,7 @@
    * A2: 큰 형아! 네 어디서 왔나?
    * B : Amba age si aibici jihe?
    * C : 大阿哥你從那裡來的？
+   * C2: 大阿哥你从那里来的？
    * D : Senseng, ni hadi-bat lay ka?
    * E: Sir! Where are you coming from? 
 
@@ -35,6 +38,7 @@
    * A2: 나는 조선 왕경에서 왔다. 
    * B : Bi coohiyan wang ging ci jihe.
    * C : 我從朝鮮王京來的。
+   * C2: 我从朝鲜王京来的。
    * D : A Cawsyen Wanggeng-bat lay le.
    * E : I have come from the capital of the Kingdom of Joseon. 
 
@@ -59,6 +63,7 @@
    * A2: 너는 언제 왕경에서 떠났나?
    * B : Si atanggi wang ging ci juraka?
    * C : 你幾時從王京起程的？
+   * C2: 你几时从王京起程的？
    * D : Ni hasi Wanggeng-bat cut-le ka?  
    * E : When did you leave the capital of your kingdom?
 
@@ -66,7 +71,7 @@
    * A : 내 이 ᄃᆞᆯ 초ᄉᆡᆼ에 ᄯᅥ낫노라.
    * A2: 나는 이달 초승에 떠났다.
    * B : Bi ere biyai ice de juraka.
-   * C: 我在本月初一日起程的。
+   * C : 我在本月初一日起程的。
    * D : A gim canda ji itban-hali ne cut le. 
    * E : I have left at the first day of this month.
    
@@ -83,6 +88,7 @@
    * A2: 이제 거의 반달이었는데, 어찌 겨우 여기 왔나?
    * B : Te hontohon biya hamika bime ainu teni ubade isinjiha?
    * C : 到現在差不多半個月，為何纔到這裡呢？
+   * C2: 到现在差不多半个月，为何才到这里呢？
    * D : I gim geli ban-canda kyo-le, hayu dan kodi lay ka?
    * E : And now almost half a month has passed, why have you come only here? 
    
@@ -91,6 +97,7 @@
    * A2: 한 벗이 쳐져 와서,
    * B : Emu gucu tutafi jime ofi,
    * C : 因為有一個伙伴落後了來,
+   * C : 因为有一个伙伴落后了来,
    * D : Yu, it-meng ji cinyow nuli lay, 
    * E : For one friend is coming slowly,
    
@@ -99,6 +106,7 @@
     * A2: 내가 천천히 기다리는것으로 오는게 더뎠다. 
     * B : Bi elhe Seme aliyakiyame yabure jakade tuttu jime goidaha.
     * C : 我慢慢走著等候，所以來遲了。
+    * C2: 我慢慢走着等候，所以来迟了。
     * D : A nuli deng i lay, a ji lay-em nuli s’wa-li-le.
     * E : I slowly waited and came: for this my coming was made late. 
 
@@ -107,6 +115,7 @@
     * A2: 그 벗이 이제 미쳐 왔는가 못왔는가?
     * B : Tere gucu te amcame isinjimbio akun?
     * C : 那個伙伴現在趕到了嗎？
+    * C2: 那个伙伴现在赶到了吗？
     * D : Co cinyow gim geli kodi lay ka? But lay ka?
     * E :Is that friend almost come here? Is (he) not come? 
 
@@ -115,6 +124,7 @@
     * A2: 여기 저 벗이 그이니, 
     * B : Ere uthai tere gucu inu,
     * C : 這個伙伴便是,
+    * C2: 这个伙伴便是,
     * D : kodi cinyow ka cey, 
     * E : My friend here is he, 
 
@@ -123,6 +133,7 @@
     * A2: 어제 갓 왔다. 
     * B : Sikse teni jihe.
     * C : 昨天纔到的。
+    * C2: 昨天才到的。
     * D : Jaknit lay le. 
     * E : yesterday he had come. 
 
@@ -131,6 +142,7 @@
     * A2: 너의 헤아림으로 이달 그믐까지 황성에 들지 못하겠나?
     * B : Si bodoci ere biyai manashUn gemun hecen de isinambio isinarakun?
     * C : 你計算本月底能到京城嗎 ?
+    * C2: 你计算本月底能到京城吗 ?
     * D : Ni sikaw ne, gim canda ji matnit apae Hwangsyeng ne lay neng ka?  
     * E : To your thinking, before the final day of this month, do you think you are able to arrive at the Imperial city? 
 
@@ -139,6 +151,7 @@
     * A2: 내 어찌 알 수 있겠는가?
     * B : Bi adarame bahafi sambi?
     * C : 我怎麼得知?
+    * C2: 我怎么得知?
     * D : A ha’i ko sata ka? 
     * E : How would I know this?
 
@@ -147,6 +160,7 @@
     * A2: 하늘이 어여뼈 하면 가는데 몸이 평안하게 할것이다!
     * B : Abka gosifi beye elhe oci isinambi dere !
     * C : 若上天憐憫身體安好時，想是可到吧 !
+    * C2: 若上天怜悯身体安好时，想是可到吧 !
     * D : Nyak langit ni ne cincet cey, ni ji langkay penan kalu!
     * E : If heaven is kind to you, your body shall be well! 
 
