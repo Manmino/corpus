@@ -35,3 +35,5 @@ Munin noley bawyu hwa noley banija-heng neng.
 **Article 5:** No one shall be subjected to torture or to cruel, inhuman or degrading treatment or punishment.
 * **5ban ji Sila:** Munin tanin lu kawmun, hok jankok-syang ninlyun ne banday-syang hok gyutnyok-syang dway'ow hok danda gip neng.
 * No one may torture another; or cruelly, against humanity, or shamefully treat or give punishment to another. 
+
+[Return to Corpus Index](https://github.com/Manmino/corpus#readme)
