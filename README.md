@@ -1,3 +1,5 @@
+[Return to the main page](https://manmino.github.io/learn-trosel")
+
 # Corpus
 
 **EN:** This is a collection of texts in Manmino, along with translations. The rest of this document will be in English only.
@@ -18,3 +20,5 @@ Translation of texts related to society and international relations will go here
 Translations of religious texts will go here.
 ## Literature
 Translations of fiction books or lyrics of songs will go here.
+
+[Return to the main page](https://manmino.github.io/learn-trosel")
