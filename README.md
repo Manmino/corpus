@@ -1,4 +1,4 @@
-[Return to the main page](https://manmino.github.io/learn-trosel")
+[Return to the main page](https://manmino.github.io/)
 
 # Corpus
 
@@ -21,4 +21,4 @@ Translations of religious texts will go here.
 ## Literature
 Translations of fiction books or lyrics of songs will go here.
 
-[Return to the main page](https://manmino.github.io/learn-trosel")
+[Return to the main page](https://manmino.github.io/)
