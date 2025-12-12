@@ -10,8 +10,8 @@
 
 ## Historical Text
 All texts whose primary value is historical in nature will go here.
-  * **[Nogeoldae/Lawkitday](https://github.com/Manmino/corpus/blob/main/Lawkitday.md)**
-    * A Late Joseon-Dynasty Conversational Textbook to Manchu and Qing-era Mandarin.
+  * **[Lawkitday](https://github.com/Manmino/corpus/blob/main/Lawkitday.md)**
+    * *Nogeoldae*, a late Joseon-dynasty conversational textbook to Manchu and Qing-era Mandarin.
 ## Social Text
 Translation of texts related to society and international relations will go here.
 * **[UN Universal Declaration of Human Rights](https://github.com/Manmino/corpus/blob/main/UN-UDHR.md)**
@@ -20,5 +20,9 @@ Translation of texts related to society and international relations will go here
 Translations of religious texts will go here.
 ## Literature
 Translations of fiction books or lyrics of songs will go here.
+  * **[Apwiboti-bat Gonggek](https://github.com/Manmino/corpus/blob/main/Apwiboti-bat%20Gonggek.md)**
+    * "Mars Attacks", a song from Korea about procrastinating on an alien invasion.
+  * **[Haw Kom hwa Yawho](https://github.com/Manmino/corpus/blob/main/Haw%20Kom%20hwa%20Yawho.md)**
+    * "A Good Child and a Fox Spirit", a song from Japan about the complicated relationship between a child and a fox spirit.
 
 [Return to the main page](https://manmino.github.io/)
