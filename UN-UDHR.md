@@ -12,7 +12,8 @@
 They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.
 * **1ban ji Sila:** Manmin-na tanseng-em-bat jiyu-dek cey, i con'em hwa gwenli nay dongdeng cey. 
 Manmin liseng hwa lyangsim bawyu, i manmin-ne hengdey-syang hengdong pit.
-* All people are free from birth, and are equals in dignity and rights. 
+* All people are free from birth, and are equals in dignity and rights.
+All people have reason and conscience, and must act like brothers to all others.
 
 **Article 2:** Everyone is entitled to all the rights and freedoms set forth in this Declaration, 
 without distinction of any kind, such as race, colour, sex, language, religion, 
