@@ -26,5 +26,7 @@ Translations of fiction books or lyrics of songs will go here.
     * "A Good Child and a Fox Spirit", a song from Japan about the complicated relationship between a child and a fox spirit.
   * **[Dem Mit Mit](https://github.com/Manmino/corpus/blob/main/Dem%20mit%20mit.md)**
     * "Tian Mi Mi", an originally Chinese song about looking for long-lost love.
+  * **[Tay-lu Cu](https://github.com/Manmino/corpus/blob/main/Tay-lu-cu.md)**
+    * "Hand in Hand", the iconic theme song for the 1988 Seoul Olympics.
 
 [Return to the main page](https://manmino.github.io/)
