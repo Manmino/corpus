@@ -24,5 +24,7 @@ Translations of fiction books or lyrics of songs will go here.
     * "Mars Attacks", a song from Korea about procrastinating on an alien invasion.
   * **[Haw Kom hwa Yawho](https://github.com/Manmino/corpus/blob/main/Haw%20Kom%20hwa%20Yawho.md)**
     * "A Good Child and a Fox Spirit", a song from Japan about the complicated relationship between a child and a fox spirit.
+  * **[Dem Mit Mit](https://github.com/Manmino/corpus/blob/main/Dem%20mit%20mit.md)**
+    * "Tian Mi Mi", an originally Chinese song about looking for long-lost love.
 
 [Return to the main page](https://manmino.github.io/)
