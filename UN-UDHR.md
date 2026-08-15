@@ -2,7 +2,7 @@
 
 **EN:** The United Nations Universal Declaration of Human Rights, Articles 1-10.
 
-**MMO:** Ko Gokjay Lenhap (UN) ji Syaygyay Ningwen Swenenmun 1ban Sila-bat 5ban Sila-bang cey. 
+**MMO:** Ko Gokjay Lenhap (UN) ji Syaygyay Ningwen Swenenmun 1ban Sila-bat 10ban Sila-bang cey. 
 
 # Text
 
